@@ -37,7 +37,7 @@ Criar um portfólio moderno, minimalista e responsivo que destaque minhas habili
 ---
 
 ## 🌟 Como Acessar
-Link - https://vieiradg.github.io/Portfolio/portifolio%20v2/
+Link - https://vieiradg.github.io/Portfolio/portifolio%20v1/
 
 🛡️ Acessibilidade
 O portfólio segue boas práticas de acessibilidade:
