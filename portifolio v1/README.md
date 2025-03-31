@@ -1,5 +1,8 @@
 # Meu Portfólio 👨‍💻
 
+![image](https://github.com/user-attachments/assets/4184d7bd-d38d-483e-a378-027fca69d8a1)
+
+
 Bem-vindo ao meu portfólio pessoal! Aqui você encontra informações sobre mim, minha trajetória como desenvolvedor e os projetos que desenvolvi.
 
 ## 🎯 Objetivo
